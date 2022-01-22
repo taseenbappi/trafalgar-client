@@ -1,0 +1,38 @@
+.article-card{
+    width: 350px;
+    height: 354px;
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.article-card-title{
+    font-family: 'Mulish', sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.article-card-details-txt{
+    font-family: 'Mulish', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7D7987;
+;
+     
+}
+
+.read-more-card-btn{
+    border: 0;
+    background-color: white;
+    color: #458FF6;
+}

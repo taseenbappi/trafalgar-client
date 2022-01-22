@@ -1,0 +1,25 @@
+.footer{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+}
+.footer-company-details{
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+
+}
+.footer-company-list li{
+    list-style: none;
+    color: #FFFFFF;
+    font-family: 'Mulish', sans-serif;
+    
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: 0em;
+    text-align: left;
+
+}

@@ -1,0 +1,38 @@
+.banner-title{
+    font-family: 'Mulish', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-bottom: 15px;
+
+}
+
+.banner-details-txt{
+    font-family: 'Mulish', sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-bottom: 15px;
+
+}
+
+.consult-btn{
+    width: 200px;
+    height: 60px;
+    border-radius: 55px;
+    border: 0;
+    background: #458FF6;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+}
