@@ -15,7 +15,7 @@ const Services = () => {
             <hr className='horizontal-bar' />
             <p className='service-details-txt'>We provide to you the best choiches for you. Adjust it to your health needs and make sure your undergo treatment <br /> with our highly qualified doctors you can consult with us which type of service is suitable for your health</p>
             <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 container mx-auto py-3">
-                <div className="col">
+                <div className="col ">
                     <div className="h-100 service-card text-start">
                         <img src={search} className="img-fluid p-2" alt="..." width="91.98" height="90" />
                         <div className="card-body">
